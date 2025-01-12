@@ -1,6 +1,7 @@
 Class Hello
-{public static void main(String[] args)
 {
-System.out.println("hello there i am here hi ");
+public static void main(String[] args)
+{
+System.out.println("hello iam using java there i am here hi ");
 }
 }
