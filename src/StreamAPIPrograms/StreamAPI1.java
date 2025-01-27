@@ -12,7 +12,7 @@ public class StreamAPI1 {
 	public static void main(String[] args) {
 		//create List And filter even number.
 		
-	List<Integer>integer1=	List.of(2,4,9,5,6,8);
+	List<Integer>integer1=	List.of(2,4,9,5,6,8,12);
 	System.out.println(integer1);
 	List<Integer> integer2=Arrays.asList(23,67,8,12);
 	 //without stream finding even
