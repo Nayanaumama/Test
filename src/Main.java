@@ -13,7 +13,8 @@ public class Main {
         int[] a={5,4,6,7};
         List<Integer> lst= Arrays.asList(4,5,6,3,7);
         Collections.sort(lst);
-        System.out.println(lst);
+        System.out.println("hello");
+
 
     }
 
