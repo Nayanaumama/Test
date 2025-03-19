@@ -10,11 +10,15 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
        // System.out.printf("Hello and welcome!");
          public static void main(String[] args) {
-        int[] a={5,4,6,7};
-        List<Integer> lst= Arrays.asList(4,5,6,3,7);
-        Collections.sort(lst);
+
+             ArrayList<String> arl=new ArrayList<>;
+             arl.add("nayana");
+             arl.add("geetha");
+             System.out.println(arl);
+
+
         System.out.println("hello");
-System.out.println("hi");
+
 
     }
 
